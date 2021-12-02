@@ -15,8 +15,14 @@
     {
       "name": "project name3",
       "detail": "detail 3",
-      "complete": false,
+      "complete": true,
       "id": 3
+    },
+    {
+      "name": "Project 3",
+      "detail": "detail 4",
+      "complete": false,
+      "id": 4
     }
   ]
 }
